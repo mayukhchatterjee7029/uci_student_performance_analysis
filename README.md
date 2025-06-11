@@ -1,4 +1,4 @@
-# 📊 Student UCI Students Performance Analysis 
+# 📊 UCI Students Performance Analysis 
 
 This Jupyter Notebook (`student_performance.ipynb`) focuses on the preprocessing steps for a student performance dataset. The goal of this project is to prepare the data for potential machine learning models that predict student grades (G1, G2, G3).
 
