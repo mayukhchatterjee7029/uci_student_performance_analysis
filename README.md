@@ -4,7 +4,7 @@ This Jupyter Notebook (`student_performance.ipynb`) focuses on the preprocessing
 
 ---
 ## 🫡 Dataset Courtesy 
-The notebook utilizes a dataset named `student-mat.csv` from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance) . This dataset contains various student attributes, their grades in two periods (G1, G2) and final grade (G3).
+The notebook utilizes a dataset named `student-mat.csv` from the `student.zip` archive of [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance). This dataset contains various student attributes, their grades in two periods (G1, G2) and final grade (G3).
 
 ---
 ## 📊 Project Overview
