@@ -25,7 +25,6 @@ This project analyzes student performance data to understand patterns and build 
 ### Data Manipulation & Analysis
 - **NumPy**: Numerical computing and array operations
 - **Pandas**: Data manipulation and analysis
-- **SciPy**: Statistical analysis and scientific computing
 
 ---
 ### Data Visualization
@@ -36,18 +35,23 @@ This project analyzes student performance data to understand patterns and build 
 - **Scikit-learn**: Complete machine learning toolkit including:
   - **Linear Regression**: Basic linear relationship modeling
   - **Ridge Regression**: Regularized linear regression for better generalization
+  - **Elastic Net Regression**: Combines lasso and ridge regression
   - **Polynomial Features**: Capturing non-linear relationships
   - **Decision Tree Regressor**: Tree-based decision making models
-  - **Random Forest Regressor**: Ensemble method combining multiple decision trees
+  - **Voting Regressor**: Ensemble method combining multiple models
+  - **Bagging Regressor**: Ensemble method for improved accuracy
+  - **AdaaBoost Regressor**: Boosting algorithm for improved accuracy
 
 ---
 ### Data Preprocessing
 - **StandardScaler**: Feature normalization and scaling
 - **Pipeline**: Streamlined preprocessing and modeling workflows
+- **PCA**: Principal Component Analysis for dimensionality reduction
 
 ---
 ### Model Evaluation
 - **Root Mean Squared Error (RMSE)**: Performance metric for regression models
+- **R2 Score**: Model performance metric
 
 ---
 ## 📁 Project Structure
@@ -101,7 +105,9 @@ This project implements and compares several regression algorithms:
 - **Polynomial Regression**: Captures non-linear patterns
 - **Elastic Net Regression**: Uses the penalties from both the lasso and ridge techniques to regularize regression models
 - **Decision Tree**: Non-parametric model for complex relationships
-- **Random Forest**: Ensemble method for improved accuracy and robustness
+- **Voting Regressor**: Ensemble method combining multiple models
+- **Bagging Regressor**: Ensemble method for improved accuracy
+- **AdaBoost Regressor**: Boosting algorithm for improved accuracy
 
 ---
 ## 📊 Expected Outcomes
